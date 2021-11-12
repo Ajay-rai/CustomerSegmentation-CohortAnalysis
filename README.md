@@ -41,4 +41,3 @@ Plotted cohort analysis charts, some examples are shown below:
 * On average, the company made the revenue of 4000 dollars per customer per year.
 * By the end of the year, the company's revenue had increased from 50k dollars to 200K dollars. We can also see how covid-19 might affect revenue from the cohort layer cake.
 * Customer Lifetime Value can be analyzed if gross margin profit is given.
-* Discuss with team members to see if any other metrics is useful for them.
